@@ -16,7 +16,7 @@
   </a>
   
    <a href="https://github.com/joaonew/ignite-component-first-application/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/joaofiche/ignite-component-first-application?style=for-the-badge">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/joaonew/ignite-component-first-application?style=for-the-badge">
   </a>
 </p>
 
