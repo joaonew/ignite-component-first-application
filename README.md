@@ -41,7 +41,7 @@ In addition, it is good to have an editor to work with the code as [VSCode](http
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/joaonew/ignite-component-first-application>
+$ git clone https://github.com/joaonew/ignite-component-first-application
 
 # Access the project folder in the terminal/cmd
 $ cd ignite-component-first-application
