@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
  <sub><b>João Fiche</b></sub></a> <a href="https://www.linkedin.com/in/joaofiche" title="LinkedIn">🚀</a>
 
 
-Made with ❤️ by João Fiche 👋🏽 Get in touch!
+Made with ❤️  by João Fiche 👋🏽  Get in touch!
 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Fiche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaofiche)](https://www.linkedin.com/in/joaofiche) 
 [![Gmail Badge](https://img.shields.io/badge/-jncfiche@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jncfiche@gmail.com)](mailto:jncfiche@gmail.com)
